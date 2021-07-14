@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lauracabr04
+- 👀 I’m interested in chess, coding, writing and reading
+- 🌱 I’m currently learning javascript, because I started with grasshopper.
+- 💞️ I’m not really looking to collaborate on anything, but maybe you can convince me.
+- 📫 How to reach me via email or the chat in this webspace
